@@ -1,10 +1,12 @@
 - Back-end Developer - Seeking knowledge and opportunities  
   
-👋  Hi, I’m @thayanezz  
-🌍  I'm based in São Luís, Brazil  
-✉️  You can contact me at thayanesousatet@gmail.com  
-🚀  Currently working on Personal Projects - Open to Work  
-🤝  Open to collaborating on interesting projects  
+Olá, sou Thayane, estudante de Sistemas de Informação, com foco em desenvolvimento Back-End e análise de dados. 
+Atualmente, estou participando de um Bootcamp especializado em back-end com JAVA,
+além de estar realizando duas especializações pela empresa Meta: Desenvolvedor Back-End e Engenheiro de Banco de Dados.
+
+Minhas áreas de interesse incluem APIs, desenvolvimento mobile com JAVA e gerenciamento de Banco de Dados com SQL.
+
+Você pode entrar em contato comigo por aqui caso se interesse pelo meu trabalho ou meus estudos.
 
 <!---
 thayanezz/thayanezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
